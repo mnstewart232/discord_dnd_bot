@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const config = require('./config.json');
+//Rename the config file as needed
+const config = require('./config_mine.json');
 const fs = require('fs');
 
 client.on('ready', () => {
