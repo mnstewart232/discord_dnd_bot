@@ -1,0 +1,14 @@
+{
+  "name": "discord_dnd_bot-master",
+  "version": "1.0.0",
+  "description": "Bot for Chris' DND server",
+  "main": "main.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "Matt Stewart",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
